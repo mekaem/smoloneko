@@ -27,8 +27,13 @@ Feel free to submit a pull request if you see any fixes or further optimizations
 
 ## 📜 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MPL-2.0 License.
 
 ## 🤝 Acknowledgments
 
 Credit to [adryd](https://github.com/adryd325/oneko.js) for the original script.
+
+## 📺 Demo
+
+[oneko.webm](https://github.com/user-attachments/assets/c1ce686e-207a-444f-8fc5-aa1b385223df)
+
